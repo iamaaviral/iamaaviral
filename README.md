@@ -2,7 +2,7 @@
 **iamaaviral/iamaaviral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img src="https://github.com/iamaaviral/iamaaviral/banner.png" alt="GitHub README header image">
+<img src="https://github.com/iamaaviral/iamaaviral/blob/main/banner.png" alt="GitHub README header image" width="100%">
 
 #### My name is **Aviral Srivastava 🚀**. I am a front-end software developer with experience of building web and mobile applications using a variety of tools and have exposure to the entire gamut of software development lifecycle working on areas ranging all the way from data modelling to UI design and release management
 ---
