@@ -24,7 +24,7 @@ When I'm not immersed in the world of technology, you can find me jumping from h
   <img alt="Aviral's Instagram" width="20px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a> <a href="https://www.twitter.com/iamaaviral/">
   <img alt="Aviral's Twitter" width="20px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png" />
-</a> <a href="[https://www.linkedin.com/iamaaviral/](https://www.linkedin.com/in/iamaaviral/)">
+</a> <a href="https://www.linkedin.com/in/iamaaviral/">
   <img alt="Aviral's Linkedin" width="20px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
 </a>
 
