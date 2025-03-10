@@ -27,10 +27,11 @@ When I'm not immersed in the world of technology, you can find me jumping from h
 </a> <a href="https://www.linkedin.com/in/iamaaviral/">
   <img alt="Aviral's Linkedin" width="20px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
 </a>
-
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamaaviral&show_icons=true&hide=contribs,stars&cache_seconds=86400&theme=vue&icon_color=0366d6&title_color=0366d6" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamaaviral&hide=DIGITAL%20Command%20Language&layout=compact" />
 </a>
+-->
